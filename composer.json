@@ -1,6 +1,7 @@
 {
     "name": "joelwurtz/castor-features",
-    "require": {
+    "require": {},
+    "require-dev": {
         "jolicode/castor": "^0.13.1"
     },
     "autoload": {
