@@ -7,7 +7,8 @@
     "autoload": {
         "psr-4": {
             "JCastor\\Features\\": "src/"
-        }
+        },
+        "files": ["src/functions.php"]
     },
     "authors": [
         {
